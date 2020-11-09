@@ -1,0 +1,48 @@
+{
+  "name": "nextjs-web-sns",
+  "version": "1.0.0",
+  "description": "personal project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc",
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realhee/nextjs-web-sns.git"
+  },
+  "author": "realhee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realhee/nextjs-web-sns/issues"
+  },
+  "homepage": "https://github.com/realhee/nextjs-web-sns#readme",
+  "dependencies": {
+    "@ant-design/icons": "^4.2.2",
+    "@emotion/core": "^10.1.1",
+    "@emotion/styled": "^10.0.27",
+    "@types/node": "^14.14.6",
+    "@types/react": "^16.9.56",
+    "antd": "^4.8.0",
+    "emotion": "^10.0.27",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "next": "^9.5.5",
+    "prettier": "^2.1.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.1",
+    "@typescript-eslint/eslint-plugin-tslint": "^4.6.1",
+    "@typescript-eslint/parser": "^4.6.1",
+    "eslint": "^7.13.0"
+  }
+}
